@@ -1,0 +1,10 @@
+# Ignorar el entorno virtual y variables de entorno
+venv/
+.env
+
+# Ignorar archivos de datos y texto generados
+*.txt
+*.jsonl
+
+# Ignorar puntos de control de Jupyter Notebooks si aparecen
+.ipynb_checkpoints/
