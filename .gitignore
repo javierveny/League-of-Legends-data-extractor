@@ -9,5 +9,8 @@ venv/
 # Ignorar puntos de control de Jupyter Notebooks si aparecen
 .ipynb_checkpoints/
 
+# ignoramos todas las bases de datos
+*.db
+
 # ponemos q requirements si q se añada
 !requirements.txt
